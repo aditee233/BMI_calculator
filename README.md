@@ -54,6 +54,7 @@ BMI Range	Category
 18.5 – 24.9	Normal
 25 – 29.9	Overweight
 ≥ 30	Obese
+
 🎯 Learning Outcomes
 
 Python GUI development
